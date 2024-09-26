@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+
+body {
+    text-align: center;
+    background-color: #222;
+
+}
+
+#board {
+    background-color: black;
+    border-top: 5px solid skyblue;
+    border-left: 5px solid skyblue;
+    border-right: 5px solid skyblue;
+    width: 35vw;
+    height: 35vw;
+}
+
+#buttons {
+    
+    margin-top: 1vw;
+
+    display: none;
+    align-items: center;
+    justify-content: center;
+    gap: 8vw;
+
+
+}
+
+#buttons button {
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+
+
+
+}
+
+#buttons button:active {
+    color: black;
+    background-color: white;
+}
+
+#space {
+    display: none;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+
+
+}
+
+#space:active {
+    color: black;
+    background-color: white;
+
+}
+
+
+#restart {
+    
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1vw;
+}
+
+#title{
+    
+    color: white;
+}
+
+@media (max-width:768px) {
+    #buttons{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:35vw;
+        
+    }
+
+    #left{
+        width: 19vw;
+        font-size: 9vw;
+    }
+
+    #right{
+        width: 19vw;
+        font-size: 9vw;
+    }
+    #restart{
+        display: flex;
+      
+        align-items: center;
+        justify-content: center;
+    
+        
+    }
+
+    #space{
+        width: 19vw;
+        font-size: 9vw;
+
+    }
+    #board{
+        width: 85vw;
+        height: 105vw;
+    }
+
+    
+
+    
+}
