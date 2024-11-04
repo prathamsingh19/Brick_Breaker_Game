@@ -1,6 +1,6 @@
-# 🧱 Brick Breaker Game 🧱
+# Brick Breaker Game 🧱
 
-Welcome to the **Classic Brick Breaker Game**! This project features a controlling a paddle to bounce a ball and break rows of colorful bricks. The game features smooth animations, intuitive controls, and engaging gameplay, perfect for both casual gamers and programming enthusiasts , crafted entirely with **HTML**, **CSS**, and **JavaScript**.
+Welcome to the **Classic Brick Breaker Game**! This project features a controlling a paddle to bounce a ball and break rows of colorful bricks. The game features smooth animations, intuitive controls, and engaging gameplay, perfect for both casual gamers and programming enthusiasts , crafted entirely with **HTML**, **CSS**, and **JavaScript**. 🌟
 
 
 
@@ -12,12 +12,16 @@ Welcome to the **Classic Brick Breaker Game**! This project features a controlli
 - **Game Over and Restart:**: Clear game-over screen when the ball falls below the paddle.
 - **Levels and Progression**: Multiple levels with increasing difficulty and increased number of bricks.
 
-## 🛠️ Technologies Used
+## Technologies Used ⚙️
 
-- **HTML**: Structure of the application
-- **CSS**: Styling and layout
-- **JavaScript**: Functionality and interaction
-
+- **Frontend**: 
+  - HTML 🖊
+  - CSS 🎨
+  - JavaScript ⚒
+- **Tools**:
+  - Vs Code for coding 💻
+  - Vercel App for deployment 🚀
+  
 ## 📝 Usage
 
 - **Start the Game**: Launch the game in your browser or on your device.
@@ -28,15 +32,21 @@ Welcome to the **Classic Brick Breaker Game**! This project features a controlli
 - **Game Over**: If the ball falls below the paddle, the game ends. You can restart or return to the main menu.
 
 
-### 🌐 Connect with Me
-
-- **GitHub**: [visit](https://github.com/prathamsingh19)
-- **LinkedIn**: [visit](https://www.linkedin.com/in/prathamsingh19102003)
-- **Instagram**: [visit](https://instagram.com/prathamsingh.__)
-- **Portfolio**: [visit](https://tinyurl.com/prathamsingh)
+## Live Demo 🌐
 
 
+You can view the live version here : [https://brick-breaker-game-pratham.vercel.app](
+https://brick-breaker-game-pratham.vercel.app) 
 
-## 🙏 Thank You!
+## Contact 📫
 
-Thank you for checking out the Brick Breaker Game! Your feedback and suggestions are always welcome!
+Feel free to reach out to me:
+
+- Email: prathamsingh19102003@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/prathamsingh19102003](https://www.linkedin.com/in/prathamsingh19102003)
+- GitHub: [https://github.com/prathamsingh19](https://github.com/prathamsingh19)
+- Instagram: [https://www.instagram.com/prathamsingh.__/](https://www.instagram.com/prathamsingh.__/)
+
+---
+
+Thank you 👋
